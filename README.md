@@ -9,7 +9,7 @@
   ##
  
 <div> 
-  <a href="https://www.youtube.com/@lucasboone5616" target="_blank"><img align="center" alt="youtube-logo" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/124/124015.png"></a>
+  <a href="https://www.youtube.com/@lucasboone5616" target="_blank"><img align="center" alt="youtube-logo" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png"></a>
   <a href="https://instagram.com/lucasboone1" target="_blank"><img align="center" alt="insta-logo" height="50" width="50" src="https://img.freepik.com/vetores-gratis/instagram-logo_1199-122.jpg" target="_blank"></a>
  	<a href = "luscaboone1@gmail.com"><img align="center" alt="gmail-logo" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-boone-601a20263?utm_source=share&utm_content=profile&utm_medium=android_app/" target="_blank"><img align="center" alt="likedin-logo" height="50" width="50" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" target="_blank"></a> 
