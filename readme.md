@@ -16,4 +16,8 @@
   
 </div>
 
+div {
+  border: solid red;
+  max-width: 70ex;
+}
 
