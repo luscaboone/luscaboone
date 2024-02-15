@@ -1,4 +1,4 @@
-  ## Olá, meu nome é Lucas, aluino iniciante ... !
+  ## Olá, meu nome é Lucas, aluno iniciante ... !
 
 <div style="display: inline_block"><br>
 
