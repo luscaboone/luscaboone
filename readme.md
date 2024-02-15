@@ -2,18 +2,7 @@
   
 <div style="display: inline_block"><br>
 
-div {
-  border: solid red;
-  max-width: 70ex;
-}
-h4 {
-  float: left;
-  margin: 10;
-}
-<div>
-  <h4>HELLO!</h4>
-  </div>
- 
+
   <img align="center" alt="lucas-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
 </div>
