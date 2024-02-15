@@ -1,6 +1,18 @@
   ## Olá, meu nome é Lucas, aluno iniciante ... !
-div {
+  
 <div style="display: inline_block"><br>
+
+div {
+  border: solid red;
+  max-width: 70ex;
+}
+h4 {
+  float: left;
+  margin: 0;
+}
+<div>
+  <h4>HELLO!</h4>
+  </div>
  
   <img align="center" alt="lucas-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
@@ -15,6 +27,4 @@ div {
   <a href="https://www.linkedin.com/in/lucas-boone-601a20263?utm_source=share&utm_content=profile&utm_medium=android_app/" target="_blank"><img align="center" alt="likedin-logo" height="50" width="50" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" target="_blank"></a> 
   
 </div>
-  border: solid red;
-  max-width: 70ex;
-}
+
