@@ -8,7 +8,7 @@ div {
 }
 h4 {
   float: left;
-  margin: 0;
+  margin: 10;
 }
 <div>
   <h4>HELLO!</h4>
