@@ -23,10 +23,10 @@ n = int(input('Digite um numero para saber a tabuada: '))
 print(f'A tabuada de {n} será: ')
 for i in range (11): 
     print(f'{n}X{i}={n*i}')
-#calculadora basica
+#calculadora basica com implementacao da funcao while
 primeironumero = int(input('digite um numero: '))
 segundonumero = int(input('digite outro numero: '))
-print(primeironumero, segundonumero)
+print(f"Seus números escolhidos foram: {primeironumero} e {segundonumero}, agora escolha o que deseja fazer com eles.")
 soma2 = primeironumero + segundonumero
 diferenca = primeironumero - segundonumero
 multiplicacao = primeironumero * segundonumero
@@ -34,3 +34,21 @@ divisao = primeironumero / segundonumero
 quociente = primeironumero // segundonumero
 resto = primeironumero % segundonumero
 expoente = primeironumero ** segundonumero
+opcao = 0
+while opcao == 0:
+    opcao = int(input("Escolha uma opção: \n1 - Soma\n2 - Subtração\n3 - Multiplicação\n4 - Divisão\n5 - Quociente\n6 - Resto\n7 - Expoente\nResposta: "))
+    if opcao == 1:
+        print(f"Resultado= {primeironumero}+{segundonumero}={soma2}")
+    if opcao == 2:
+        print(f"Resultado= {primeironumero}-{segundonumero}={diferenca}")
+    if opcao == 3:
+        print(f"Resultado= {primeironumero}*{segundonumero}={multiplicacao}")
+    if opcao == 4:
+        print(f"Resultado= {primeironumero}/{segundonumero}={divisao}")
+    if opcao == 5:
+        print(f"Resultado= {primeironumero}//{segundonumero}={quociente}")
+    if opcao == 6:
+        print(f"Resultado= {primeironumero}%{segundonumero}={resto}")
+    if opcao == 7:
+        print(f"Resultado= {primeironumero}**{segundonumero}={expoente}")
+print("Fim!")
